@@ -1,0 +1,2 @@
+# Deteksi-Daun-Herbal
+Jenis tanaman pada umumnya dapat diketahui dengan melihat bentuk dari daun, warna, batang, bunga, dan lain-lain. Tidak semua orang dapat secara langsung dapat mengenali jenis tanamanan yang tersebar disekitar lingkungan. Di Indonesia, tanaman herbal tumbuh subur dan banyak sekali ditemukan dan dimanfaatkan sebagai racikan obat tradisonal yang secara turun-temurun dikenal khasiatnya. 
